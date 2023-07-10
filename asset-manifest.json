@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nani8501/ToDoList/static/css/main.318caeea.css",
+    "main.js": "/Nani8501/ToDoList/static/js/main.92b20569.js",
+    "static/js/787.2843ca88.chunk.js": "/Nani8501/ToDoList/static/js/787.2843ca88.chunk.js",
+    "index.html": "/Nani8501/ToDoList/index.html",
+    "main.318caeea.css.map": "/Nani8501/ToDoList/static/css/main.318caeea.css.map",
+    "main.92b20569.js.map": "/Nani8501/ToDoList/static/js/main.92b20569.js.map",
+    "787.2843ca88.chunk.js.map": "/Nani8501/ToDoList/static/js/787.2843ca88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.318caeea.css",
+    "static/js/main.92b20569.js"
+  ]
+}
